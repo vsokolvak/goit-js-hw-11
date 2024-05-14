@@ -1,4 +1,4 @@
-import { button } from "./js/formSRC/button";
+import { button } from "./js/formSRC/button.js";
 import { createGaleryItems } from "./js/gallerySrc/createGalery";
 import { showModalMsg } from "./js/izitoast";
 import { loader } from "./js/loader";
